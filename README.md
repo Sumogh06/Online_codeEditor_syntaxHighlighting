@@ -17,9 +17,6 @@ Tech Stack
 Setup Instructions
 Frontend Setup
 
-    Clone the repository:
-
-git clone https://github.com/yourusername/online-code-editor.git
 cd "Online Code Editor with Syntax Highlighting and Debugging"
 
 Install dependencies:
@@ -45,6 +42,12 @@ Server output:
       ➜  press h + enter to show help  
 
     Visit http://localhost:5173/ in your browser.
+
+
+Resultant video tape:
+
+
+https://github.com/user-attachments/assets/b58e5e1e-bcd8-46be-b0b4-6c28e89b6872
 
 
 
